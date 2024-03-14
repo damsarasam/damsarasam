@@ -3,32 +3,12 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/DamsaraSamarak1)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/damsara-samarakoon)
 
-Hey there 👋
+Hello,
 
 I’m Damsara, AI engineering student at coventry university. Committed to staying at the forefront of AI advancements through continuous learning and hands-on projects. Eager to contribute to cutting-edge developments that harness the power of AI for positive change.
 
 
-## 📌 Pinned Repositories
-
-<br>
-
-<a href="https://github.com/damsarasam/face-detection">
-  <img align="center" style="margin:0.5rem" src="https://github.com/damsarasam/face-detection&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-
-<a href="https://github.com/damsarasam/Self-learning-chatbot">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=pomegradient&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-
-<br>
-<br>
-
-
-## 💼 Skills
+## Skills
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
